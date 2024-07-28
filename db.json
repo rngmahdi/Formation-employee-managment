@@ -1,0 +1,216 @@
+{
+  "employees": [
+    {
+      "id": "33f2",
+      "nom": "ELAMAIM",
+      "prenom": "ELMEHDI",
+      "age": "23",
+      "telephone": "0709942454",
+      "formations": [
+        {
+          "id": "3",
+          "title": "Python Programming for Data Analysis",
+          "status": "complete"
+        },
+        {
+          "id": "5",
+          "title": "Big Data Analytics",
+          "status": "complete"
+        }
+      ]
+    },
+    {
+      "id": "cde3",
+      "nom": "Obihi",
+      "prenom": "Hmad",
+      "age": "21",
+      "telephone": "0745688912",
+      "formations": [
+        {
+          "id": "3",
+          "title": "Python Programming for Data Analysis",
+          "status": "complete"
+        },
+        {
+          "id": "2",
+          "title": "Statistical Analysis for Data Science",
+          "status": "complete"
+        }
+      ]
+    },
+    {
+      "id": "44g3",
+      "nom": "DUPONT",
+      "prenom": "JEAN",
+      "age": "30",
+      "telephone": "0701122334",
+      "formations": [
+        {
+          "id": "6",
+          "title": "Introduction to SQL for Data Analysis",
+          "status": "Not Started"
+        }
+      ]
+    },
+    {
+      "id": "55h4",
+      "nom": "SMITH",
+      "prenom": "JOHN",
+      "age": "35",
+      "telephone": "0709988776",
+      "formations": [
+        {
+          "id": "10",
+          "title": "R Programming for Data Science",
+          "start_date": "2024-12-05",
+          "finish_date": "2025-01-05",
+          "status": "Not Started"
+        },
+        {
+          "id": "5",
+          "title": "Big Data Analytics",
+          "start_date": "2024-07-14",
+          "finish_date": "2024-08-14",
+          "status": "Not Started"
+        }
+      ]
+    },
+    {
+      "nom": "JOHNSON",
+      "prenom": "EMMA",
+      "age": "28",
+      "telephone": "0706655443",
+      "formations": [
+        {
+          "id": "95b1",
+          "title": "javascript",
+          "start_date": "2024-03-18",
+          "finish_date": "2024-03-29",
+          "status": "Finished"
+        },
+        {
+          "id": "7",
+          "title": "Predictive Analytics and Forecasting",
+          "status": "Not Started"
+        }
+      ],
+      "id": "66i5"
+    },
+    {
+      "id": "77j6",
+      "nom": "BROWN",
+      "prenom": "OLIVER",
+      "age": "40",
+      "telephone": "0704455667",
+      "formations": [
+        {
+          "id": "2",
+          "title": "Statistical Analysis for Data Science",
+          "start_date": "2024-02-15",
+          "finish_date": "2024-05-30",
+          "status": "Canceled"
+        },
+        {
+          "id": "7",
+          "title": "Predictive Analytics and Forecasting",
+          "start_date": "2024-09-07",
+          "finish_date": "2024-10-07",
+          "status": "Not Started"
+        }
+      ]
+    }
+  ],
+  "formations": [
+    {
+      "id": "1",
+      "title": "Machine Learning Fundamentals",
+      "start_date": "2024-02-15",
+      "finish_date": "2024-03-15",
+      "status": "Finished"
+    },
+    {
+      "title": "Statistical Analysis for Data Science",
+      "start_date": "2024-02-15",
+      "finish_date": "2024-05-30",
+      "status": "Canceled",
+      "id": "2"
+    },
+    {
+      "title": "Python Programming for Data Analysis",
+      "start_date": "2024-04-03",
+      "finish_date": "2024-06-26",
+      "status": "Canceled",
+      "id": "3"
+    },
+    {
+      "title": "Data Visualization Techniques",
+      "start_date": "2024-06-08",
+      "finish_date": "2024-06-21",
+      "status": "Not Started",
+      "id": "4"
+    },
+    {
+      "id": "5",
+      "title": "Big Data Analytics",
+      "start_date": "2024-07-14",
+      "finish_date": "2024-08-14",
+      "status": "Not Started"
+    },
+    {
+      "id": "6",
+      "title": "Introduction to SQL for Data Analysis",
+      "start_date": "2024-08-29",
+      "finish_date": "2024-09-29",
+      "status": "Not Started"
+    },
+    {
+      "id": "7",
+      "title": "Predictive Analytics and Forecasting",
+      "start_date": "2024-09-07",
+      "finish_date": "2024-10-07",
+      "status": "Not Started"
+    },
+    {
+      "id": "8",
+      "title": "Data Mining and Exploration",
+      "start_date": "2024-10-18",
+      "finish_date": "2024-11-18",
+      "status": "Not Started"
+    },
+    {
+      "id": "9",
+      "title": "Business Intelligence Essentials",
+      "start_date": "2024-11-22",
+      "finish_date": "2024-12-22",
+      "status": "Not Started"
+    },
+    {
+      "id": "10",
+      "title": "R Programming for Data Science",
+      "start_date": "2024-12-05",
+      "finish_date": "2025-01-05",
+      "status": "Not Started"
+    },
+    {
+      "id": "95b1",
+      "title": "javascript",
+      "start_date": "2024-03-18",
+      "finish_date": "2024-03-29",
+      "status": "Finished"
+    },
+    {
+      "id": "155f",
+      "title": "azeazeaz",
+      "start_date": "2024-03-19",
+      "finish_date": "2024-03-29",
+      "status": "Finished"
+    },
+    {
+      "id": "afe2",
+      "title": "Ajax",
+      "start_date": "2024-04-01",
+      "finish_date": "2024-04-21",
+      "status": "Not Started"
+    }
+  ]
+}
